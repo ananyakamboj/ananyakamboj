@@ -11,6 +11,6 @@
   - :bulb: [Discord Community](https://discord.gg/anaxkam)
   - :office: [LinkedIn](https://www.linkedin.com/in/ananyakamboj/)
 
-- 🔭 I’m currently working on computing for common good.
+- 🔭 I’m currently computing for common good.
 - 💬 Ask me about Artificial Intelligence and Programming
 
