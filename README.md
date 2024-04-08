@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="400" height="400">
+</p>
+
+
 ### Hi there. I'm Ananya! 👋
 
 - :zap: I love mathematics and programming.
